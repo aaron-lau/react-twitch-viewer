@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-twitch-viewer/static/css/main.6d65d191.chunk.css",
+    "main.js": "/react-twitch-viewer/static/js/main.bea0caf0.chunk.js",
+    "main.js.map": "/react-twitch-viewer/static/js/main.bea0caf0.chunk.js.map",
+    "runtime~main.js": "/react-twitch-viewer/static/js/runtime~main.f28d8db3.js",
+    "runtime~main.js.map": "/react-twitch-viewer/static/js/runtime~main.f28d8db3.js.map",
+    "static/css/2.70a01efe.chunk.css": "/react-twitch-viewer/static/css/2.70a01efe.chunk.css",
+    "static/js/2.08621bbc.chunk.js": "/react-twitch-viewer/static/js/2.08621bbc.chunk.js",
+    "static/js/2.08621bbc.chunk.js.map": "/react-twitch-viewer/static/js/2.08621bbc.chunk.js.map",
+    "index.html": "/react-twitch-viewer/index.html",
+    "precache-manifest.ef868c4bb0bfa78a30afc5c5311cd960.js": "/react-twitch-viewer/precache-manifest.ef868c4bb0bfa78a30afc5c5311cd960.js",
+    "service-worker.js": "/react-twitch-viewer/service-worker.js",
+    "static/css/2.70a01efe.chunk.css.map": "/react-twitch-viewer/static/css/2.70a01efe.chunk.css.map",
+    "static/css/main.6d65d191.chunk.css.map": "/react-twitch-viewer/static/css/main.6d65d191.chunk.css.map"
+  }
+}
