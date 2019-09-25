@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-monster-robodex/static/css/main.6d65d191.chunk.css",
+    "main.js": "/react-monster-robodex/static/js/main.9388701c.chunk.js",
+    "main.js.map": "/react-monster-robodex/static/js/main.9388701c.chunk.js.map",
+    "runtime~main.js": "/react-monster-robodex/static/js/runtime~main.e2779f55.js",
+    "runtime~main.js.map": "/react-monster-robodex/static/js/runtime~main.e2779f55.js.map",
+    "static/css/2.70a01efe.chunk.css": "/react-monster-robodex/static/css/2.70a01efe.chunk.css",
+    "static/js/2.0d325d93.chunk.js": "/react-monster-robodex/static/js/2.0d325d93.chunk.js",
+    "static/js/2.0d325d93.chunk.js.map": "/react-monster-robodex/static/js/2.0d325d93.chunk.js.map",
+    "index.html": "/react-monster-robodex/index.html",
+    "precache-manifest.a56f05332552ec95a0dd20735f941617.js": "/react-monster-robodex/precache-manifest.a56f05332552ec95a0dd20735f941617.js",
+    "service-worker.js": "/react-monster-robodex/service-worker.js",
+    "static/css/2.70a01efe.chunk.css.map": "/react-monster-robodex/static/css/2.70a01efe.chunk.css.map",
+    "static/css/main.6d65d191.chunk.css.map": "/react-monster-robodex/static/css/main.6d65d191.chunk.css.map"
+  }
+}
