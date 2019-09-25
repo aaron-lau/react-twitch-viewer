@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://aaron-lau.github.io/react-monster-robodex",
+  "homepage": "https://aaron-lau.github.io/react-twitch-viewer",
   "dependencies": {
     "axios": "0.19.0",
     "bootstrap": "4.3.1",
