@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://aaron-lau.github.io/react-twitch-viewer",
+  "homepage": "https://aaron-lau.github.io/react-twitch-viewer/",
   "dependencies": {
     "axios": "0.19.0",
     "bootstrap": "4.3.1",
@@ -12,8 +12,8 @@
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-router-dom": "5.0.1",
-    "react-scripts": "3.0.1",
-    "shards-ui": "2.1.2"
+    "react-scripts": "^3.4.1",
+    "shards-ui": "^3.0.0"
   },
   "devDependencies": {
     "typescript": "3.3.3"
