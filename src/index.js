@@ -14,9 +14,10 @@ function App() {
     <Router>
       <div className="App container-fluid">
         <Header />
-        <Route exact path="/" component={Games} />
-        <Route exact path="/top-streams" component={Streams} />
-        <Route exact path="/game/:id" component={GameStreams} />
+        <Route exact path="/react-twitch-viewer" component={Games}/>
+        <Route exact path="/react-twitch-viewer/games" component={Games} />
+        <Route exact path="/react-twitch-viewer/streams" component={Streams} />
+        <Route exact path="/react-twitch-viewer/game/:id" component={GameStreams} />
       </div>
     </Router>
   );

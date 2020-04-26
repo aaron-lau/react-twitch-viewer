@@ -5,10 +5,10 @@ function Header() {
   return (
     <nav className="navbar justify-content-center">
       <li className="nav-item nav-link">
-        <Link to="/">Top Games</Link>
+        <Link to="/react-twitch-viewer/games">Top Games</Link>
       </li>
       <li className="nav-item nav-link">
-        <Link to="/top-streams">Top Live Streams</Link>
+        <Link activeOnlyWhenExact to="/react-twitch-viewer/streams">Top Live Streams</Link>
       </li>
     </nav>
   );
